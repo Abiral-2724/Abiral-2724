@@ -1,6 +1,4 @@
-Got it! Here's a GitHub profile description designed based on the details from Abiral Jain's resume:
 
----
 
 **Hello World!!👋**
 
@@ -48,6 +46,3 @@ Feel free to explore my repositories, and don't hesitate to reach out if you hav
 - [Gmail](#)
 - [Instagram](#)
 
----
-
-Feel free to update the placeholder links and adjust any details to better reflect your preferences!
