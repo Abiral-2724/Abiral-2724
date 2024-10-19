@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abiral jain</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I'm a passionate Computer Science student at Jabalpur Engineering College, dedicated to pushing the boundaries of technology through innovative projects. With a strong foundation in full-stack development and a knack for problem-solving, I've honed my skills across various technologies including React, Node.js, and MongoDB. My commitment to excellence is reflected in my LeetCode rating of 1779+ and my top 15 finish in HackExtreme 2023. I've brought several impactful projects to life, including QuickChat, a real-time messaging application; YouTube Thumbnail Generator, a tool for content creators; and Job Hunt, a comprehensive job portal. These projects showcase my ability to create full-stack solutions that solve real-world problems. I'm always eager to learn and contribute to the tech community, as evidenced by my participation in Hacktoberfest 2023. Let's connect and build something amazing together!</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abiral-2724" alt="abiral-2724" /></a> </p>
 
