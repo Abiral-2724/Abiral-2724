@@ -121,8 +121,6 @@ I'm always open to collaborating on interesting projects or discussing tech. Fee
 - 📧 Email: abiral2724@gmail.com
 - 💼 LinkedIn: [Abiral Jain](https://linkedin.com/in/abiral-jain-3b7004256)
 - 🌐 LeetCode: [abiral2724](https://leetcode.com/u/abiral2724/)
-- 📱 Phone: 626-491-6954
-
 ---
 
 <div align="center">
