@@ -1,21 +1,134 @@
-<h1 align="center">Hi 👋, I'm Abiral jain</h1>
-<h3 align="center">I'm a passionate Computer Science student at Jabalpur Engineering College, dedicated to pushing the boundaries of technology through innovative projects. With a strong foundation in full-stack development and a knack for problem-solving, I've honed my skills across various technologies including React, Node.js, and MongoDB. My commitment to excellence is reflected in my LeetCode rating of 1779+ and my top 15 finish in HackExtreme 2023. I've brought several impactful projects to life, including QuickChat, a real-time messaging application; YouTube Thumbnail Generator, a tool for content creators; and Job Hunt, a comprehensive job portal. These projects showcase my ability to create full-stack solutions that solve real-world problems. I'm always eager to learn and contribute to the tech community, as evidenced by my participation in Hacktoberfest 2023. Let's connect and build something amazing together!</h3>
+# Hi there, I'm Abiral Jain 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abiral-2724" alt="abiral-2724" /></a> </p>
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abiral-jain-3b7004256/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abiral-jain-3b7004256/" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/abiral2004jain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/abiral2004jain" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/abiraljain2004/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/abiraljain2004/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/abiral_274/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/abiral_274/" height="30" width="40" /></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abiral-jain-3b7004256)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/abiral2724/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/abiral2724/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abiral2724@gmail.com)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abiral-2724&show_icons=true&locale=en&layout=compact" alt="abiral-2724" /></p>
+## 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abiral-2724&show_icons=true&locale=en" alt="abiral-2724" /></p>
+I'm a **Full Stack Developer** and **Competitive Programmer** pursuing B.Tech in Computer Science at Jabalpur Engineering College. I love building scalable web applications and solving complex algorithmic problems.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abiral-2724&" alt="abiral-2724" /></p>
+- 🔭 Currently working on full-stack projects with **Next.js, TypeScript, and Node.js**
+- 🌱 Learning advanced system design and cloud technologies
+- 💪 **LeetCode Knight** with a contest rating of **2052** (Top 2.01% globally)
+- 🎯 Passionate about building products that solve real-world problems
+- 📫 Reach me at: **abiral2724@gmail.com**
+
+## 💻 Tech Stack
+
+**Frontend:**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
+**Backend:**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+
+**Tools & Technologies:**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat&logo=socket.io&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white)
+
+**Languages:**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+
+## 🏆 Featured Projects
+
+### [Planzo](https://github.com/Abiral-2724/Planzo) - Project Management Platform
+A full-stack collaborative project management tool with real-time features.
+
+**Tech Stack:** Next.js, TypeScript, PostgreSQL, Prisma, WebSockets, Tailwind CSS
+
+**Key Features:**
+- 🔐 Secure authentication with role-based access control
+- 📧 Email invitations and team management
+- 💬 Real-time team chat and live task updates using WebSockets
+- 📊 Kanban board workflows with deadline tracking
+- 📁 File storage integration with Cloudinary
+- 🔔 Real-time notifications and activity logs
+- 📈 Productivity insights and analytics
+
+### [ThreadScape](https://github.com/Abiral-2724/ThreadScape) - Community Platform
+A modern community web application for engaging discussions.
+
+**Tech Stack:** Next.js, TypeScript, MongoDB, Clerk, Tailwind CSS
+
+**Key Features:**
+- 🔒 Secure authentication with Clerk
+- 👤 User profile management
+- 💬 Post creation, viewing, and commenting
+- 🔍 Username-based search functionality
+- 📝 User-specific comment tracking
+- 🎨 Responsive and intuitive UI
+
+## 💼 Professional Experience
+
+### Full Stack Developer Intern @ NivaasConnect
+*June 2025 - August 2025*
+- Built scalable RESTful APIs with Node.js and Express.js, improving response time by 25%
+- Developed responsive frontend with Next.js featuring real-time room listings and admin dashboard
+
+### Full Stack Developer Intern @ Arttag
+*September 2025 - October 2025*
+- Designed RESTful services with Node.js, Express, and PostgreSQL
+- Implemented Firebase OTP authentication and Cloudinary media management
+- Built performant frontend with Next.js and TypeScript
+
+### Software Development Intern @ Zero65 Technologies
+*January 2025 - February 2025*
+- Developed and optimized RESTful APIs for NSE and BSE stock data retrieval
+- Engineered automated data pipelines for historical stock data processing
+
+## 🎯 Competitive Programming Achievements
+
+- 🏅 **LeetCode Knight** - Contest Rating: **2052** (Top 2.01% globally)
+- 🥇 Ranked **4th** in Prahaar coding contest at JEC
+- 🏆 Ranked **1067** among 26,000+ participants in LeetCode Weekly Contest 453
+- 🚀 Led team to **HackExtreme 2023 Finals** - Top 15 out of 200 teams nationwide
+- 💻 Led team to **Top 10** ranking in HackJEC 2023 (60+ teams)
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abiral-2724&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abiral-2724&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abiral-2724&theme=radical&hide_border=true)
+
+</div>
+
+## 🤝 Let's Connect!
+
+I'm always open to collaborating on interesting projects or discussing tech. Feel free to reach out!
+
+- 📧 Email: abiral2724@gmail.com
+- 💼 LinkedIn: [Abiral Jain](https://linkedin.com/in/abiral-jain-3b7004256)
+- 🌐 LeetCode: [abiral2724](https://leetcode.com/u/abiral2724/)
+- 📱 Phone: 626-491-6954
+
+---
+
+<div align="center">
+  
+**"Building scalable solutions, one commit at a time"** 💻✨
+
+![Profile Views](https://komarev.com/ghpvc/?username=Abiral-2724&color=brightgreen)
+
+</div>
