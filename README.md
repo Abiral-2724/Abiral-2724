@@ -78,16 +78,22 @@ A modern community web application for engaging discussions.
 
 ## 💼 Professional Experience
 
+### Full Stack Developer Intern @ Arttag
+*September 2025 - July 2026*
+- Developed and deployed 25+ RESTful API endpoints using Node.js, Express.js, PostgreSQL, and Prisma for product
+management, wishlist, cart, and Firebase OTP authentication; optimized database queries and connection pooling to reduce
+API response times by 40%.
+- Built a responsive e-commerce storefront using Next.js and TypeScript, with product browsing, filtering, cart, and checkout
+flows; developed an admin dashboard with real time inventory, sales analytics, and Cloudinary based media management.
+- Automated the end-to-end order lifecycle, including coupon management, return/refund workflows, and SMS order
+notifications via MSG91, reducing manual operational effort and improving customer communication.
+- Implemented CI/CD pipelines using GitHub Actions to automate testing, build, and deployment to Hostinger,
+eliminating manual release steps and reducing deployment time.
+
 ### Full Stack Developer Intern @ NivaasConnect
 *June 2025 - August 2025*
 - Built scalable RESTful APIs with Node.js and Express.js, improving response time by 25%
 - Developed responsive frontend with Next.js featuring real-time room listings and admin dashboard
-
-### Full Stack Developer Intern @ Arttag
-*September 2025 - October 2025*
-- Designed RESTful services with Node.js, Express, and PostgreSQL
-- Implemented Firebase OTP authentication and Cloudinary media management
-- Built performant frontend with Next.js and TypeScript
 
 ### Software Development Intern @ Zero65 Technologies
 *January 2025 - February 2025*
